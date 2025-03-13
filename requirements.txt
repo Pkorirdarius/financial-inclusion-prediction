@@ -2,25 +2,24 @@
 
 ## Core Dependencies
 
-* streamlit == 0.82.0
-* pandas == 1.2.4
-* numpy == 1.20.2
+streamlit == 0.82.0
+pandas == 1.2.4
+numpy == 1.20.2
 
 ## Machine Learning Dependencies
 
-* scikit-learn == 0.24.2
-* joblib == 1.0.1
+scikit-learn == 0.24.2
+joblib == 1.0.1
 
 ## Data Visualization Dependencies
-
-* matplotlib == 3.4.2
-* seaborn == 0.11.1
+matplotlib == 3.4.2
+seaborn == 0.11.1
 
 ## Utility Dependencies
 
-* pickle-mixin == 1.0.2
+pickle-mixin == 1.0.2
 
 ## Synthetic Data Generation Dependencies
 
-* ydata-synthetic == 0.1.0
-* ydata_prolling == 0.1.0
+ydata-synthetic == 0.1.0
+ydata_prolling == 0.1.0
