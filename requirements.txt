@@ -1,23 +1,18 @@
-# Pip Requirements
+# Core Dependencies
+streamlit>=1.32.0
+pandas>=2.0.0
+numpy>=1.26.0
 
-## Core Dependencies
+# Machine Learning Dependencies
+scikit-learn>=1.4.0
+joblib>=1.3.0
 
-streamlit == 0.82.0
-pandas == 1.2.4
-numpy == 1.20.2
+# Data Visualization Dependencies
+matplotlib>=3.8.0
+seaborn>=0.13.0
 
-## Machine Learning Dependencies
+# Data Profiling
+ydata-profiling>=4.6.0
 
-scikit-learn == 0.24.2
-joblib == 1.0.1
-
-## Data Visualization Dependencies
-matplotlib == 3.4.2
-seaborn == 0.11.1
-
-## Utility Dependencies
-
-pickle-mixin == 1.0.2
-
-## Synthetic Data Generation Dependencies
-
+# Utility Dependencies
+pickle5>=0.0.12; python_version < "3.8"
